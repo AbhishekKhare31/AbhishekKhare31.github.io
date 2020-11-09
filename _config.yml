@@ -1,12 +1,12 @@
-title: Tauseef Jamadar
+title: Abhishek Khare
 description: Stuff that I come across and find interesting.
-author: Tauseef Jamadar
-email: tmjam.ahmed@gmail.com
-phone: (650) 576-5403
-github: https://github.com/tmjam
-about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
+author: Abhishek Khare
+email: abhishek.n.khare@gmail.com
+phone: (+91) 8619079500
+github: https://github.com/AbhishekKhare31
+about: I am a firmware validation Engineer at <a href="https://www.westerndigital.com/" target="_blank">Western Digital</a>. I love to learn and work on new technologies.
 disqus_shortname: programming
-google_analytics: UA-31048387-6
+#google_analytics: UA-31048387-6
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -19,19 +19,13 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
-    - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
+      link: "https://www.facebook.com/abhishek.khare.1612/"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+      link: "https://www.linkedin.com/in/abhishek-khare-0ba903162/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/tmjam"
-
-share:
-  twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
+      link: "https://github.com/AbhishekKhare31"
 
 urls:
     - text: About Me
@@ -44,8 +38,8 @@ urls:
       url: /tweets/
     - text: XML Feed
       url: /feed.xml
-# url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+#url: "http://localhost:4000"
+url: "https://github.com/AbhishekKhare31/AbhishekKhare31.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
